@@ -1,5 +1,5 @@
 import react from "../assets/react.svg";
-import banner from "../assets/banner.svg";
+import Banner from "../assets/Banner.svg";
 import figma from "../assets/figma.svg";
 import whatsapp from "../assets/whatsapp.svg";
 import linkedin from "../assets/linkedin.svg";
@@ -70,7 +70,7 @@ const Hero = () => {
 
       <div id="banner-image" class=" w-[920px]  ml-34 h-auto border-amber-300 flex text-right">
         <img
-          src={banner}
+          src={Banner}
           alt="Banner-image"
           class="w-full h-full object-cover transform -translate-y-9 translate-x-16"
         />
