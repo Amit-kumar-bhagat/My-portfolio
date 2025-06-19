@@ -4,14 +4,14 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Navigation from "./components/Navigation";
 import Hero from "./components/Hero";
-import PrototypeIcon from "./components/PrototypeIcon";
+// import PrototypeIcon from "./components/PrototypeIcon";
 
 function App() {
   return (
     <>
       <Navigation />
       <Hero />
-      <PrototypeIcon />
+      {/* <PrototypeIcon /> */}
     </>
   );
 }
