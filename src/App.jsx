@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 import Navigation from "./components/Navigation";
 import Hero from "./components/Hero";
-import PrototypeIcon from "./components/prototypeIcon";
+import PrototypeIcon from "./components/PrototypeIcon";
 
 function App() {
   return (
