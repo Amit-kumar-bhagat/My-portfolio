@@ -6,6 +6,7 @@ import Navigation from "./components/Navigation";
 import Hero from "./components/Hero";
 import PrototypeIcon from "./components/PrototypeIcon";
 import About from "./Pages/About";
+import Services from "./Pages/Services"
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
