@@ -14,7 +14,7 @@ function App() {
       <Router>
         <Navigation />
         <Routes>
-          <Route path="/home" element={<><Hero /> <PrototypeIcon /> </>}/>
+          <Route path="/" element={<><Hero /> <PrototypeIcon /> </>}/>
       
           <Route path="/about" element={<About />} />
         </Routes>

@@ -11,7 +11,7 @@ const Navigation = () => {
             <span class="ml-3 text-xl text-white">Amit Kumar Bhagat</span>
           </a>
           <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-            <Link to="home" class="mr-5 hover:text-green-600 cursor-pointer">
+            <Link to="/" class="mr-5 hover:text-green-600 cursor-pointer">
               Home
             </Link>
             <a href="#" class="mr-5 hover:text-green-600 cursor-pointer">
