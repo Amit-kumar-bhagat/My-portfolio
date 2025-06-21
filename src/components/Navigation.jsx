@@ -17,9 +17,9 @@ const Navigation = () => {
             <a href="#" class="mr-5 hover:text-green-600 cursor-pointer">
               Portfolio
             </a>
-            <a href="#" class="mr-5 hover:text-green-600 cursor-pointer">
+            <Link to="/services" class="mr-5 hover:text-green-600 cursor-pointer">
               Services
-            </a>
+            </Link>
             <Link
               to="/about"
               className="mr-5 hover:text-green-600 cursor-pointer"
