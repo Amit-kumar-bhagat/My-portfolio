@@ -17,10 +17,12 @@ const Navigation = () => {
             <a href="#" class="mr-5 hover:text-green-600 cursor-pointer">
               Portfolio
             </a>
-            <Link to="/Services" class="mr-5 hover:text-green-600 cursor-pointer">
+            <Link
+              to="/services"
+              class="mr-5 hover:text-green-600 cursor-pointer"
+            >
               Services
-              </Link>
-            
+            </Link>
             <Link
               to="/about"
               className="mr-5 hover:text-green-600 cursor-pointer"
